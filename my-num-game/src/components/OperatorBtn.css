@@ -1,0 +1,14 @@
+.opBtn{
+    margin: 2%;
+    height: 20px;
+    flex-grow: 1;
+    border-radius: 30px;
+}
+
+.opBtnActive{
+    margin: 2%;
+    height: 20px;
+    flex-grow: 1;
+    border-radius: 30px;
+    background-color: olive;
+}
